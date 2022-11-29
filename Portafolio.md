@@ -27,7 +27,7 @@
 #### 1.1 Análisis.  
 
 #### 1.2 DFD
-
+![3](https://user-images.githubusercontent.com/113395327/204666246-5ee27669-1c3e-46f4-824d-ae79fbdd68df.png)
 #### 1.3 Prueba de escritorio
 
 #### 1.4 Entradas.
@@ -38,6 +38,7 @@
 #### 1.1 Análisis.  
 
 #### 1.2 DFD
+![4](https://user-images.githubusercontent.com/113395327/204667281-8a31699f-50ab-4142-a69b-733c0f398d35.png)
 
 #### 1.3 Prueba de escritorio
 
@@ -49,7 +50,7 @@
 #### 1.1 Análisis.  
 
 #### 1.2 DFD
-
+![5](https://user-images.githubusercontent.com/113395327/204667646-a9d9b9bf-4f61-4eca-aa3a-23e8b5bc8b35.png)
 #### 1.3 Prueba de escritorio
 
 #### 1.4 Entradas.

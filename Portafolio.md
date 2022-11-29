@@ -4,7 +4,7 @@
 #### 1.1 Análisis.  
 
 #### 1.2 DFD
-
+![1](https://user-images.githubusercontent.com/113395327/204663736-e6f883c0-f59e-4ba9-a59c-df0a8cdbb106.png)
 #### 1.3 Prueba de escritorio
 
 #### 1.4 Entradas.
@@ -16,7 +16,7 @@
 #### 1.1 Análisis.  
 
 #### 1.2 DFD
-
+![2](https://user-images.githubusercontent.com/113395327/204663763-fdd3992f-a043-4aa1-a85e-acd679b33d6b.png)
 #### 1.3 Prueba de escritorio
 
 #### 1.4 Entradas.
@@ -121,48 +121,3 @@
 #### 1.4 Entradas.
 
 #### 1.5 Salidas.
-
-### Ejercicio 12. 
-#### 1.1 Análisis.  
-
-#### 1.2 DFD
-
-#### 1.3 Prueba de escritorio
-
-#### 1.4 Entradas.
-
-#### 1.5 Salidas.
-
-### Ejercicio 13. 
-#### 1.1 Análisis.  
-
-#### 1.2 DFD
-
-#### 1.3 Prueba de escritorio
-
-#### 1.4 Entradas.
-
-#### 1.5 Salidas.
-
-### Ejercicio 14. 
-#### 1.1 Análisis.  
-
-#### 1.2 DFD
-
-#### 1.3 Prueba de escritorio
-
-#### 1.4 Entradas.
-
-#### 1.5 Salidas.
-
-### Ejercicio 15. 
-#### 1.1 Análisis.  
-
-#### 1.2 DFD
-
-#### 1.3 Prueba de escritorio
-
-#### 1.4 Entradas.
-
-#### 1.5 Salidas.
-
